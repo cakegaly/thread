@@ -1,4 +1,8 @@
-## 概要
-コマンドラインで動作する，マルチスレッド掲示板プログラムです．  
-クライアント起動時の引数は，ドメイン名でもIPアドレスでも可です．
-操作方法の詳細は，helpコマンドを参照してください．  
+# thread
+Message Board app.
+
+## Starting server
+    $ ./ser
+
+## Client Usage
+    $ ./cli [hostname or IP address]
